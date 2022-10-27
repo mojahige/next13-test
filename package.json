@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "packageManager": "yarn@1.22.9",
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Safari versions",
+    "last 1 and_chr versions",
+    "last 1 ios_saf versions"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
